@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dumidr
 
-- 🌱 I’m currently learning 
+  
 
 
 
